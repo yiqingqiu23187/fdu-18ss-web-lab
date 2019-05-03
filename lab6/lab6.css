@@ -10,8 +10,9 @@ p, h1, h2, h3, ul, li, body {
 
 
 h1, h2, h3, nav, footer {
- font-family: Lobster, Cambria, "Times New Roman", serif;
+    font-family: Lobster, Cambria, "Times New Roman", serif;
 }
+
 body {
    font-family: "Open Sans", Verdana, Arial, sans-serif;
    font-size: 100%;
