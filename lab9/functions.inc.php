@@ -1,7 +1,7 @@
 <?php
 
 function generateLink($url, $label, $class) {
-   $link = '<a href="' . $url . '" class="' . $class . '">';
+   $link = '<a href="' . $url . ' class="' . $class . '">';
    $link .= $label;
    $link .= '</a>';
    return $link;

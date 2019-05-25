@@ -28,13 +28,12 @@
   $continents = array("Asia","Africa","Europe","North America","South America", "Oceania");
 
   $countries = array();
-  $countries["DE"] = "Germany";
-  $countries["GR"] = "Greece";
-  $countries["IT"] = "Italy";
-  $countries["CA"] = "Canada";
-  $countries["GB"] = "United Kingdom";
-  $countries["US"] = "United States";
-
+$countries["DE"] = "Germany";
+$countries["GR"] = "Greece";
+$countries["IT"] = "Italy";
+$countries["CA"] = "Canada";
+$countries["GB"] = "United Kingdom";
+$countries["US"] = "United States";
 
   $images = array();
   $images[22] = array("id"=>22,"title" => "View of Cologne", "description" => "View of Cologne from atop the Cologne Cathedral", "country" => "Germany", "city" => "Cologne", "user" => "Joao Fernandes", "path" => "6114850721.jpg", "taken" => "August 8, 2017", "tags" => array("cathedral","high","birds-eye"));
